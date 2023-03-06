@@ -12,7 +12,7 @@ document.write(input2+ "<br>");
 
 
 var arrary = [2, 200, 4, 74, 92, 25];
-var arrary2 = ["바나나","딸기", "사과", "수박", "키위"];
+var arrary2 = ["바나나","딸기", "사과", "수박", "키위", "오렌지"];
 
 //오름차순(숫자)
 function ascending(a,b) {
